@@ -15,7 +15,7 @@ body {
 .boxes {
     display: inline-block;
     width: 100px;
-    height: 120px;
+    height: 125px;
     background-color: red;
     margin: 10px;
     border-radius: 20px;
@@ -24,7 +24,7 @@ body {
     font-family: cursive;
     font-size: 20px;
     font-weight: bolder;
-    padding: 20px 0 0 10px;
+    padding: 5px 0 0 10px;
     overflow: hidden;
     transition: all 150ms;
 }
